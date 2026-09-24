@@ -62,22 +62,39 @@ Recover the password of the provided `My Locked PDF1.pdf` file using **John the 
 
 ### Step 1 — Download John the Ripper
 
-Download **John the Ripper** from the official website on the Windows PC.
+Download **John the Ripper** from the official Openwall website:
+
+🔗 [John the Ripper — Official Website](https://www.openwall.com/john/)
 
 📸 **Evidence:**
 
-![John the Ripper Installation](screenshots/step1-jtr-installation.jpg)
+![John the Ripper Download](Screenshots/Untitled1.jpg)
 
 ---
 
-### Step 2 — Download Johnny GUI
+### Step 2 — Download and Configure Johnny GUI
 
-Download the **Johnny GUI** from the official source on the Windows PC.
+Download **Johnny GUI** from the official Openwall website:
+
+🔗 ![John the Ripper Download](Screenshots/Untitled2.jpg)
+
+Run the setup file and install Johnny on the Windows PC.
+
+After installation, open **Johnny**.
+
+Go to:
+
+**Settings → Browse**
+
+Then locate and select the **`john.exe`** executable from the John the Ripper installation directory.
 
 📸 **Evidence:**
 
-![Johnny GUI Installation](screenshots/step2-johnny-installation.jpg)
+![John the Ripper Download](Screenshots/Untitled3.jpg)
 
+![John the Ripper Download](Screenshots/Untitled4.jpg)
+
+![John the Ripper Download](Screenshots/Untitled5678.jpg)
 ---
 
 ## 📊 Results
