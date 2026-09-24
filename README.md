@@ -196,7 +196,9 @@ Password-cracking techniques should only be used against files, systems, or acco
 ## 🛠️ Tools Used
 
 `John the Ripper` · `Johnny GUI` · `Windows`
+## 📌 Module Status
 
+**Week 3 — Project Module 1: Password Cracking with John the Ripper — Completed ✅**
 ---
 
 # 🛠️ Lab Tasks
@@ -333,23 +335,24 @@ Password-cracking techniques should only be used against files, systems, or envi
 
 ## 👤 Author
 
-**Adelino Sulude**
+This CyberLab was created and documented by **Adelino Sulude**
+for hands-on cybersecurity practice.
 
-This project was completed as part of the **Networkwalks Cybersecurity Internship Program**.
+**LinkedIn:** [Adelino Sulude](https://www.linkedin.com/in/adelino-sulude/)
 
-All practical execution, testing, analysis, and documentation in this repository were performed by **Adelino Sulude**.
+## 🙏 Credits
 
-**Focus:** Network & Infrastructure | Cybersecurity
+The training and lab concepts were learned from:
 
----
+- **Waqas Karim** — Cybersecurity Professional, CCIE
+  - Instructor of the cybersecurity training used as a learning reference.
+  - **LinkedIn:** [Waqas Karim](https://www.linkedin.com/in/waqaskarim/)
 
-## 🙏 Training & Credits
+All lab configurations, testing, documentation, and practical experimentation
+were performed by me in my own virtual lab environment.
 
-This project was developed based on the practical exercises and training provided through the **Networkwalks Cybersecurity Internship Program**.
-
-**Training Instructor:**  
-**Waqas Karim — CCIE**
-
+## 📌 Project Information
+Program Name: Cybersecurity at Networkwalks | Week: 03 | Project: Cybersecurity & Pentesting Lab Setup | Repository: GitHub
 The internship provided the learning material, project requirements, and practical exercises used as the basis for this work.
 
 ---
