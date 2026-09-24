@@ -201,6 +201,8 @@ Password-cracking techniques should only be used against files, systems, or acco
 **Week 3 — Project Module 1: Password Cracking with John the Ripper — Completed ✅**
 ---
 
+### Project Module 2: Password Cracking with Networkwalks Tools
+
 # 🛠️ Lab Tasks
 
 ## Task — Crack the Protected PDF Using Networkwalks Tools
@@ -351,17 +353,13 @@ The training and lab concepts were learned from:
 All lab configurations, testing, documentation, and practical experimentation
 were performed by me in my own virtual lab environment.
 
-## 📌 Project Information
-Program Name: Cybersecurity at Networkwalks | Week: 03 | Project: Cybersecurity & Pentesting Lab Setup | Repository: GitHub
-The internship provided the learning material, project requirements, and practical exercises used as the basis for this work.
-
----
-
 ## 📌 Module Status
 
 **Week 3 — Project Module 2: Password Cracking with Networkwalks Tools — Completed ✅**
 
-
+---
+## 📌 Project Information
+Program Name: Cybersecurity at Networkwalks | Week: 03 | Project: Password Cracking with John the Ripper and Networkwalks Tools | Repository: GitHub
 The internship provided the learning material, project requirements, and practical exercises used as the basis for this work.
 
 ---
