@@ -131,7 +131,7 @@ Browse to the PDF file and click **Upload**.
 
 📸 **Evidence:**
 
-![PDF Hash Extraction](Screenshots/step3-pdf-hash-extraction.jpg)
+![PDF Hash Extraction](Screenshots/Untitled-2.jpg)
 
 ---
 
@@ -141,7 +141,7 @@ Select and copy the generated hash value.
 
 📸 **Evidence:**
 
-![PDF Hash Value](Screenshots/step3-pdf-hash-value.jpg)
+![PDF Hash Value](Screenshots/Untitled-3.jpg)
 
 ---
 
@@ -153,6 +153,7 @@ Save the file as:
 
 ```text
 hash1.txt
+```
 ## 💡 Key Takeaways
 
 This lab provided practical experience with **John the Ripper** and **Johnny GUI** for password recovery.
