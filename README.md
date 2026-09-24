@@ -161,17 +161,17 @@ Paste the hash value inside notepad:
 ![Hash Text File](Screenshots/Untitled-5.jpg)
 Save as text file:
 ![Hash Text File](Screenshots/Untitled-6.jpg)
-Open Johnny
+Open Johnny and Click on ‘Open password file’:
 ![Hash Text File](Screenshots/Untitled-7.jpg)
-Click on ‘Open password file’:
-![Hash Text File](Screenshots/Untitled-8.jpg)
 Browse to the hash1.txt file that you have just saved & click on Open:
-![Hash Text File](Screenshots/Untitled-9.jpg)
+![Hash Text File](Screenshots/Untitled-8.jpg)
 Click on ‘Start new attack’:
-![Hash Text File](Screenshots/Untitled-10.jpg)
+![Hash Text File](Screenshots/Untitled-9.jpg)
 Now you can use this password to open your PDF file.
+![Hash Text File](Screenshots/Untitled-10.jpg)
+Open the encrypted PDF
 ![Hash Text File](Screenshots/Untitled-11.jpg)
-Open the encrypted PDF and Enter password1 (which you have just cracked):
+ and Enter password1 (which you have just cracked):
 ![Hash Text File](Screenshots/Untitled-12.jpg)
 
 ---
