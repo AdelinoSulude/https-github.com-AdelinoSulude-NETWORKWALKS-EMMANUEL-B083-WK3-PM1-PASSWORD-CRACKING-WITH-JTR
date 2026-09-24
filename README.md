@@ -156,13 +156,9 @@ hash1.txt
 ```
 (Screenshots/Untitled-4.jpg)
 (Screenshots/Untitled-5.jpg)
-(Screenshots/Untitled-6.jpg)
-(Screenshots/Untitled-7.jpg)
-(Screenshots/Untitled-8.jpg)
-(Screenshots/Untitled-9.jpg)
-(Screenshots/Untitled-10.jpg)
-(Screenshots/Untitled-11.jpg)
-(Screenshots/Untitled-12.jpg)
+
+---
+
 
 ## 💡 Key Takeaways
 
