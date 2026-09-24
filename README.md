@@ -18,6 +18,7 @@ This project demonstrates the use of **John the Ripper (JTR)** and **Johnny GUI*
 
 ```text
 My Locked PDF1.pdf
+```
 
 ## 🎯 Objectives
 
