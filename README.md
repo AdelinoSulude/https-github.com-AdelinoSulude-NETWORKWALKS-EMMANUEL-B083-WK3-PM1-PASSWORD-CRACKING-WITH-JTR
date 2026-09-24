@@ -154,8 +154,8 @@ Save the file as:
 ```text
 hash1.txt
 ```
-(Screenshots/Untitled-4.jpg)
-(Screenshots/Untitled-5.jpg)
+!(Screenshots/Untitled-4.jpg)
+!(Screenshots/Untitled-5.jpg)
 
 ---
 
