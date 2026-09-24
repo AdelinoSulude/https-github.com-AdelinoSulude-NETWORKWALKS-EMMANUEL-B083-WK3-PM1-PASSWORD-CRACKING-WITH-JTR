@@ -51,26 +51,91 @@ The exercise also demonstrates the importance of using strong passwords to prote
 
 ---
 
-## 🗺️ Lab Architecture
+# 🛠️ Lab Tasks
 
-The exercise is performed locally on the Windows PC against the provided protected PDF file.
+## Task — Crack the Protected PDF
 
-```text
-┌──────────────────────┐
-│      Windows PC      │
-│                      │
-│  ┌────────────────┐  │
-│  │ John the Ripper│  │
-│  └────────────────┘  │
-│          │           │
-│          ▼           │
-│  ┌────────────────┐  │
-│  │  Locked PDF    │  │
-│  │ My Locked PDF1 │  │
-│  └────────────────┘  │
-│          ▲           │
-│          │           │
-│  ┌────────────────┐  │
-│  │   Johnny GUI   │  │
-│  └────────────────┘  │
-└──────────────────────┘
+**Objective:**  
+Recover the password of the provided `My Locked PDF1.pdf` file using **John the Ripper** and **Johnny GUI** on the Windows PC.
+
+---
+
+### Step 1 — Download John the Ripper
+
+Download **John the Ripper** from the official website on the Windows PC.
+
+📸 **Evidence:**
+
+![John the Ripper Installation](screenshots/step1-jtr-installation.jpg)
+
+---
+
+### Step 2 — Download Johnny GUI
+
+Download the **Johnny GUI** from the official source on the Windows PC.
+
+📸 **Evidence:**
+
+![Johnny GUI Installation](screenshots/step2-johnny-installation.jpg)
+
+---
+
+## 📊 Results
+
+| Tool | Result |
+|---|---|
+| John the Ripper | `[INSERT RESULT]` |
+| Johnny GUI | `[INSERT RESULT]` |
+| Protected File | `My Locked PDF1.pdf` |
+| Password Recovered | `[INSERT RESULT]` |
+
+---
+
+## 💡 Key Takeaways
+
+This lab provided practical experience with **John the Ripper** and **Johnny GUI** for password recovery.
+
+The exercise demonstrated how password-cracking tools can be used during authorized security testing and reinforced the importance of using strong passwords when protecting sensitive files.
+
+---
+
+## 🔐 Ethical Use
+
+This project was performed in a controlled cybersecurity learning environment using the provided laboratory file.
+
+Password-cracking techniques should only be used against files, systems, or accounts for which appropriate authorization has been granted.
+
+---
+
+## 🛠️ Tools Used
+
+`John the Ripper` · `Johnny GUI` · `Windows`
+
+---
+
+## 👤 Author
+
+**Adelino Sulude**
+
+This project was completed as part of the **Networkwalks Cybersecurity Internship Program**.
+
+All practical execution, testing, analysis, and documentation in this repository were performed by **Adelino Sulude**.
+
+**Focus:** Network & Infrastructure | Cybersecurity
+
+---
+
+## 🙏 Training & Credits
+
+This project was developed based on the practical exercises and training provided through the **Networkwalks Cybersecurity Internship Program**.
+
+**Training Instructor:**  
+**Waqas Karim — CCIE**
+
+The internship provided the learning material, project requirements, and practical exercises used as the basis for this work.
+
+---
+
+## 📌 Module Status
+
+**Week 3 — Password Cracking with JTR: In Progress 🔄**
