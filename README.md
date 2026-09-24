@@ -107,7 +107,52 @@ Then locate and select the **`john.exe`** executable from the John the Ripper in
 | Password Recovered | `[INSERT RESULT]` |
 
 ---
+### Step 3 — Extract the PDF Hash and Start the Password Recovery
 
+Follow the steps below to prepare the encrypted PDF and start the password recovery process.
+
+#### 3.1 — Download the Encrypted PDF
+
+Download the encrypted PDF file to the Windows PC.
+
+📸 **Evidence:**
+
+![Encrypted PDF](Screenshots/Untitled-1.jpg)
+
+---
+
+#### 3.2 — Extract the PDF Hash
+
+Open the PDF Hash Extractor website and upload the encrypted PDF file to extract its hash.
+
+🔗 [PDF Hash Extractor](https://www.onlinehashcrack.com/tools-pdf-hash-extractor.php)
+
+Browse to the PDF file and click **Upload**.
+
+📸 **Evidence:**
+
+![PDF Hash Extraction](Screenshots/step3-pdf-hash-extraction.jpg)
+
+---
+
+#### 3.3 — Copy the Hash Value
+
+Select and copy the generated hash value.
+
+📸 **Evidence:**
+
+![PDF Hash Value](Screenshots/step3-pdf-hash-value.jpg)
+
+---
+
+#### 3.4 — Save the Hash as a Text File
+
+Open Notepad and paste the copied hash value.
+
+Save the file as:
+
+```text
+hash1.txt
 ## 💡 Key Takeaways
 
 This lab provided practical experience with **John the Ripper** and **Johnny GUI** for password recovery.
