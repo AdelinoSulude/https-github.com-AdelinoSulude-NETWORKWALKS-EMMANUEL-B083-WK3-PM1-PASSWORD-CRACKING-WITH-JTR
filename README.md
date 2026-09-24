@@ -201,9 +201,8 @@ Password-cracking techniques should only be used against files, systems, or acco
 **Week 3 — Project Module 1: Password Cracking with John the Ripper — Completed ✅**
 ---
 
+
 # 🧪 CyberLab — Project Module 2 | Password Cracking with Networkwalks Tools 
-
-
 
 ## Task — Crack the Protected PDF Using Networkwalks Tools
 
