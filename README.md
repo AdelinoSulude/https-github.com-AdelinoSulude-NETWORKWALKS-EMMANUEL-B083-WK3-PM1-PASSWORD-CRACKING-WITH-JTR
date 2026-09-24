@@ -285,7 +285,7 @@ The cracked password will be displayed on the screen when the process is complet
 
 📸 **Evidence:**
 
-![Cracked Password](Screenshots/Untitled-19.jpg)
+![Cracked Password](Screenshots/Untitled-19.jpg) 
 
 ---
 
