@@ -101,10 +101,10 @@ Then locate and select the **`john.exe`** executable from the John the Ripper in
 
 | Tool | Result |
 |---|---|
-| John the Ripper | `[---]` |
-| Johnny GUI | `[---]` |
+| John the Ripper | `---` |
+| Johnny GUI | `---` |
 | Protected File | `My Locked PDF1.pdf` |
-| Password Recovered | `[good-luck]` |
+| Password Recovered | `good-luck` |
 
 ---
 ### Step 3 — Extract the PDF Hash and Start the Password Recovery
