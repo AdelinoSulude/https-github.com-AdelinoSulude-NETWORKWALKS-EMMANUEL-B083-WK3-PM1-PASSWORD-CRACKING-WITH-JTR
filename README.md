@@ -155,15 +155,23 @@ Save the file as:
 hash1.txt
 ```
 --- 
-
+Open Johnny
 ![Hash Text File](Screenshots/Untitled-4.jpg)
+Click on ‘Open password file’:
 ![Hash Text File](Screenshots/Untitled-5.jpg)
+Browse to the hash1.txt file that you have just saved & click on Open:
 ![Hash Text File](Screenshots/Untitled-6.jpg)
+Click on ‘Start new attack’:
 ![Hash Text File](Screenshots/Untitled-7.jpg)
+Your PDF file password will be cracked
 ![Hash Text File](Screenshots/Untitled-8.jpg)
+Now you can use this password to open your PDF file.
 ![Hash Text File](Screenshots/Untitled-9.jpg)
+Open the encrypted PDF:
 ![Hash Text File](Screenshots/Untitled-10.jpg)
+Enter password (which you have just cracked):
 ![Hash Text File](Screenshots/Untitled-11.jpg)
+Your PDF file will open.
 ![Hash Text File](Screenshots/Untitled-12.jpg)
 
 ---
