@@ -153,6 +153,3 @@ The internship provided the learning material, project requirements, and practic
 
 ---
 
-## 📌 Module Status
-
-**Week 3 — Password Cracking with JTR: In Progress 🔄**
