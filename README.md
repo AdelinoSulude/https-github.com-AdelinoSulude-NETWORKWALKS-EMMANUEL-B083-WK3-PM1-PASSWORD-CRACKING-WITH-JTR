@@ -156,7 +156,15 @@ hash1.txt
 ```
 --- 
 
-!(Screenshots/Untitled-4.jpg)
+![Hash Text File](Screenshots/Untitled-4.jpg)
+![Hash Text File](Screenshots/Untitled-5.jpg)
+![Hash Text File](Screenshots/Untitled-6.jpg)
+![Hash Text File](Screenshots/Untitled-7.jpg)
+![Hash Text File](Screenshots/Untitled-8.jpg)
+![Hash Text File](Screenshots/Untitled-9.jpg)
+![Hash Text File](Screenshots/Untitled-10.jpg)
+![Hash Text File](Screenshots/Untitled-11.jpg)
+![Hash Text File](Screenshots/Untitled-12.jpg)
 
 ---
 
