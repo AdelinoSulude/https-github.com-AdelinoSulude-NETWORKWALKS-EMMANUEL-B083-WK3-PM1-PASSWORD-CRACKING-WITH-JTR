@@ -68,7 +68,7 @@ Download **John the Ripper** from the official Openwall website:
 
 📸 **Evidence:**
 
-![John the Ripper Download](Screenshots/Untitled1.jpg)
+![John the Ripper Download](./Screenshots/Untitled1.jpg)
 
 ---
 
